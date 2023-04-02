@@ -1,0 +1,14 @@
+title: Matheus Castro # your name (or website title) here
+logo: "/images/linkedin.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  Economista com 3+ meses de experiência em Analytics. Anteriormente em BTG Pactual; Itaú Unibanco.
+  <br><br>
+  something
+  <br><br>
+  <a href="https://www.linkedin.com/in/m-mca/">View my LinkedIn Profile</a>
+  
+theme: jekyll-theme-minimal
+
+colors:
+  crimson: '#900C3F'
